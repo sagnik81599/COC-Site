@@ -1,2 +1,2 @@
 # Clash Of Clans Site
-link -> 
+Go check the link -> https://sagnik81599.github.io/COC-Site/
